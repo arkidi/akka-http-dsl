@@ -1,4 +1,5 @@
-package com.packt.chapter9
+package com.packt.chapter9.akkahttp
+
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.server.Directives._
 

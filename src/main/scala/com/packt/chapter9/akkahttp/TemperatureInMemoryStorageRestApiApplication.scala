@@ -1,4 +1,4 @@
-package com.packt.chapter9
+package com.packt.chapter9.akkahttp
 
 import akka.http.scaladsl.server.{HttpApp}
 import akka.http.scaladsl.settings.ServerSettings
